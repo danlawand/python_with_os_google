@@ -1,0 +1,7 @@
+# Notes from Course in coursera https://www.coursera.org/learn/python-operating-system/home/welcome
+
+# 1. Pareto Principle:
+#   If 20% of the System Administrator (sysadmin) tasks you perform are
+#   responsible for 80% of you woarkload, so you might identifying and
+#   automating those tasks to increase your productivity.
+

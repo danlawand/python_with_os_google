@@ -1,0 +1,4 @@
+Jose, 12, sysadmin
+Maria, 15, medico
+Carlos, 99, Jogador
+Charlie, 98, Web developer
